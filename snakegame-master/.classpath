@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="snakegame/src"/>
+	<classpathentry kind="lib" path="snakegame/lib/jna-5.5.0.jar"/>
+	<classpathentry kind="lib" path="snakegame/lib/jna-platform-5.5.0.jar"/>
+	<classpathentry kind="output" path="snakegame/out/production/snakegame"/>
+</classpath>
